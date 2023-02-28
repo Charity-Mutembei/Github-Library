@@ -6,3 +6,4 @@ https://stackabuse.com/creating-a-rest-api-with-django-rest-framework/
 
 ## 2. Resources for React
 ### a. Create component - https://www.npmjs.com/package/create-reactjs-component. 
+### b. Create a multi-page (Routes) website - https://www.geeksforgeeks.org/how-to-create-a-multi-page-website-using-react-js/
